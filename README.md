@@ -1,8 +1,8 @@
 <h1 align="center"> (っ◔◡◔)っ 🆆🅴🅻🅲🅾🅼🅴! </h1>
 
 <div align="center">
-  <h2>I'm Karina or pebble_rico
-  <img weight="1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=holi" alt="top languages"></h2>
+  <h3>I'm Karina or pebble_rico
+  <img weight="1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=holi" alt="top languages"></h3>
 </div>
 
 <br>
@@ -15,11 +15,11 @@
 <div align="right">
   <h3> My skills </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin" height="30px"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=cpp,angular,django,py,postgres" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=cpp,angular,django,py,postgres" height="30px"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=ts" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="30px"/>
   </a>
 </div>
 
