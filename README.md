@@ -1,4 +1,4 @@
-<h1 align="center"> 🆆🅴🅻🅲🅾🅼🅴! </h1>
+<h1 align="center"> (っ◔◡◔)っ 🆆🅴🅻🅲🅾🅼🅴! </h1>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=tokyonight" alt="top languages">
