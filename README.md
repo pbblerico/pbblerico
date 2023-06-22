@@ -1,7 +1,7 @@
 <h1 align="center"> 🆆🅴🅻🅲🅾🅼🅴! </h1>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact" alt="top languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=tokyonight" alt="top languages">
 <!--
 **pbblerico/pbblerico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
