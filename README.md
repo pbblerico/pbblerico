@@ -1,18 +1,32 @@
 <h1 align="center"> (っ◔◡◔)っ 🆆🅴🅻🅲🅾🅼🅴! </h1>
 
+<div align="center">
+  <h2>I'm Karina or pebble_rico
+  <img weight="1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=holi" alt="top languages"></h2>
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbblerico&layout=compact&theme=tokyonight" alt="top languages">
-<!--
-**pbblerico/pbblerico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+* Kazakh-British Technical University Student (21BD)
+* I’m currently learning **ᴀɴᴅʀᴏɪᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ**
+* More info is coming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="right">
+  <h3> My skills </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin" height="40px"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=cpp,angular,django,py,postgres" height="40px"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=ts" height="40px"/>
+  </a>
+</div>
+
+<div align="center">
+  <h3>Links</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/pebblerico/">🅻🅸🅽🅺🅴🅳🅸🅽 </a>
+    <a href="https://leetcode.com/pebble_rico/">🅻🅴🅴🆃🅲🅾🅳🅴</a>
+  </p>
+</div>
