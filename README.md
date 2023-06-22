@@ -7,7 +7,7 @@
 
 <br>
 
-* Kazakh-British Technical University Student (21BD)
+* Kazakh-British Technical University Student
 * I’m currently learning **ᴀɴᴅʀᴏɪᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ**
 * More info is coming!
 
